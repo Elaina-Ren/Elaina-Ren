@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Elaina-Ren
 - 👀 I’m interested in EVERYTHING
 - 📫 mail NONE to reach me
-- 🏫 I am studying for my bachelor's degree at College of Computer Science, Nankai University
+- 🏫 I am currently studying for my MSc in AI at The University of Hong Kong.
 
 
 <table>
