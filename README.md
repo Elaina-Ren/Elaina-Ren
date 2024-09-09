@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Elaina-Ren
 - 👀 I’m interested in EVERYTHING
-- 📫 mail NONE to reach me
+- 📫 mail u3637105@connect.hku.hk to reach me
 - 🏫 I am currently studying for my MSc in AI at The University of Hong Kong.
 
 
