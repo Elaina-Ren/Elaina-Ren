@@ -8,8 +8,8 @@
 
 <table>
     <tr>
-        <td ><center><img src="https://github-readme-stats.vercel.app/api?username=Elaina-Ren&show_icons=true&theme=ambient_gradient&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&k"></td>
-        <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elaina-Ren&layout=compact&langs_count=8&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"  ></td>
+        <td ><center><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elaina_Ren&show_icons=true&theme=buefy)"></td>
+        <td ><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elaina_Ren&layout=donut)](https://github.com/anuraghazra/github-readme-stats"  ></td>
     </tr>
 </table>
 
